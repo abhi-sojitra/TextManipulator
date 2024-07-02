@@ -1,0 +1,22 @@
+{
+  "name": "textmanipulator",
+  "version": "1.0.1",
+  "description": "TextManipulator is a versatile JavaScript package designed to handle various text formatting needs. Whether you're working with names, sentences, or any other text data, TextManipulator provides a suite of functions to help you clean, format, and transform your strings with ease.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi-sojitra/TextManipulator.git"
+  },
+  "keywords": [
+    "text",
+    "formatter",
+    "utility",
+    "manipulator"
+  ],
+  "author": "Abhishek Sojitra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhi-sojitra/TextManipulator/issues"
+  },
+  "homepage": "https://github.com/abhi-sojitra/TextManipulator#readme"
+}
