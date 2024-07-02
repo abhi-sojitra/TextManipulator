@@ -1,6 +1,6 @@
 {
   "name": "textmanipulator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TextManipulator is a versatile JavaScript package designed to handle various text formatting needs. Whether you're working with names, sentences, or any other text data, TextManipulator provides a suite of functions to help you clean, format, and transform your strings with ease.",
   "main": "index.js",
   "repository": {
